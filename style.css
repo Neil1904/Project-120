@@ -1,0 +1,51 @@
+body{
+    font: 100;
+    background: white;
+}
+
+.gl{
+    height: 80px;
+    width: 80px;
+}
+
+.header_div img{
+    width: 200px;
+}
+
+hr{
+    color: black;
+}
+
+.img-responsive{
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.bob3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+
+.style_span{
+    color: red;
+}
+
+.style{
+    color: white;
+}
+
+#conclusion{
+    background: pink;
+    width: 70%;
+    padding: 10px 10px 10px 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 3px;
+}
